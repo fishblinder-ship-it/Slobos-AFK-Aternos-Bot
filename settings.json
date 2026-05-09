@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Aayu Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Sharthakbot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "EEESMP.aternos.me",
-    "port": 48548,
+    "ip": "UnknownSmp-iEU8.aternos.me",
+    "port": 61854,
     "version": "",
     "try-creative": false
   },
